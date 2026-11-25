@@ -1,0 +1,3 @@
+// Seed store settings
+
+export {};
