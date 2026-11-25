@@ -1,0 +1,3 @@
+// Seed super admin
+
+export {};

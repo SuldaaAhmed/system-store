@@ -1,0 +1,6 @@
+// products/[id]/history route
+import { NextResponse } from "next/server";
+
+export async function GET() {
+  return NextResponse.json({ message: "products/[id]/history GET" });
+}
